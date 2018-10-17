@@ -1,0 +1,14 @@
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\bin\Debug\InternetDurum.exe.config
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\bin\Debug\InternetDurum.exe
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\bin\Debug\InternetDurum.pdb
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\bin\Debug\EntityFramework.dll
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\bin\Debug\EntityFramework.xml
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\obj\Debug\InternetDurum.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\obj\Debug\InternetDurum.Form1.resources
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\obj\Debug\InternetDurum.Properties.Resources.resources
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\obj\Debug\InternetDurum.csproj.GenerateResource.Cache
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\obj\Debug\InternetDurum.exe
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\obj\Debug\InternetDurum.pdb
+C:\Users\Yunus\Desktop\InternetDurum\InternetDurum\obj\Debug\InternetDurum.Migrations.Yaz.resources
